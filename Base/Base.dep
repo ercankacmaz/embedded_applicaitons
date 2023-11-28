@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>2412388259</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h</file>
+            <file>$PROJ_DIR$\system.h</file>
+            <file>$PROJ_DIR$\Debug\List\Base.map</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\Base.out</file>
+            <file>$TOOLKIT_DIR$\config\linker\ST\stm32f103x8.icf</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Peripherals\stm32f10x_rcc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\Core\system_stm32f10x.o</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\cmsis_iccarm.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Peripherals\stm32f10x_gpio.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\Core\startup_stm32f10x_md.o</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\core_cm3.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\Core\stm32f10x_it.o</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system.o</file>
+            <file>$PROJ_DIR$\stm32f10x_conf.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\Drivers\io.o</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\cmsis_version.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Core\delay.o</file>
+            <file>$PROJ_DIR$\system_stm32f10x.h</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\io.h</file>
+            <file>$PROJ_DIR$\system.c</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h</file>
+            <file>$PROJ_DIR$\io.c</file>
+            <file>$PROJ_DIR$\delay.s</file>
+            <file>$PROJ_DIR$\system_stm32f10x.c</file>
+            <file>$PROJ_DIR$\startup_stm32f10x_md.s</file>
+            <file>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c</file>
+            <file>$PROJ_DIR$\stm32f10x_it.h</file>
+            <file>$PROJ_DIR$\stm32f10x.h</file>
+            <file>$PROJ_DIR$\..\STM32F10x_StdPeriph_Template\stm32f10x_conf.h</file>
+            <file>$PROJ_DIR$\stm32f10x_it.c</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 15 5</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\Base.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 5</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 16 52 50 49 29 28 40 22 43 23 39 0 48 25</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 28</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 35 65 30 18 8 45 47 21 11 51 33 27 1 53 44 37 6 31 34 19 10 32 20 7 24 17 41 13 3 36 38 42 58 14 9 2 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 49</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 46 8 45 47 21 11 26 18 4 56 65 30 51 33 27 1 53 44 37 6 31 34 19 10 32 20 7 24 17 35 41 13 3 36 38 42 58 14 9 2 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\system.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 4 56 65 30 18 8 45 47 21 11 51 33 27 1 53 44 37 6 31 34 19 10 32 20 7 24 17 35 41 13 3 36 38 42 58 14 9 2 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\io.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 56 65 30 18 8 45 47 21 11 51 33 27 1 53 44 37 6 31 34 19 10 32 20 7 24 17 35 41 13 3 36 38 42 58 14 9 2 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\delay.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 52</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\system_stm32f10x.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 23</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 65 30 18 8 45 47 21 11 51 33 27 1 53 44 37 6 31 34 19 10 32 20 7 24 17 35 41 13 3 36 38 42 58 14 9 2 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\startup_stm32f10x_md.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 29</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 22</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36 65 30 18 8 45 47 21 11 51 33 27 1 53 44 37 6 31 34 19 10 32 20 7 24 17 35 41 13 3 38 42 58 14 9 2 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\stm32f10x_it.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 40</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 64 65 30 18 8 45 47 21 11 51 33 27 1 53 44 37 6 31 34 19 10 32 20 7 24 17 35 41 13 3 36 38 42 58 14 9 2 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
