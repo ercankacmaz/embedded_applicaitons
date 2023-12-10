@@ -1,0 +1,18 @@
+{
+  "workspace": {
+    "path": "${workspaceFolder}\\Button.eww"
+  },
+  "workspaces": {
+    "${workspaceFolder}\\Button.eww": {
+      "configs": {
+        "${workspaceFolder}\\Button.ewp": "Debug"
+      },
+      "selected": {
+        "path": "${workspaceFolder}\\Button.ewp"
+      }
+    }
+  },
+  "workbench": {
+    "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1"
+  }
+}
