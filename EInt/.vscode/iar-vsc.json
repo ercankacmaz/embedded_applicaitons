@@ -1,0 +1,26 @@
+{
+  "workspace": {
+    "path": "${workspaceFolder}\\EInt.eww"
+  },
+  "workspaces": {
+    "${workspaceFolder}\\Timer.eww": {
+      "configs": {
+        "${workspaceFolder}\\Timer.ewp": "Debug"
+      },
+      "selected": {
+        "path": "${workspaceFolder}\\Timer.ewp"
+      }
+    },
+    "${workspaceFolder}\\EInt.eww": {
+      "configs": {
+        "${workspaceFolder}\\EInt.ewp": "Debug"
+      },
+      "selected": {
+        "path": "${workspaceFolder}\\EInt.ewp"
+      }
+    }
+  },
+  "workbench": {
+    "path": "C:\\Program Files\\IAR Systems\\Embedded Workbench 9.1"
+  }
+}
